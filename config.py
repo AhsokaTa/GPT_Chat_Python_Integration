@@ -1,0 +1,4 @@
+API_KEY = "Here your API key"
+MAX_TOKENS = 2048
+N = 1
+TEMPERATURE = 0.7 
